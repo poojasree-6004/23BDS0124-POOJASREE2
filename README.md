@@ -10,8 +10,8 @@ Project Structure
 
 portfolio-website/
 │
-├── index1.html         - Main HTML page  
-├── styles1.css       - Linked CSS for styling  
+├── index.html         - Main HTML page  
+├── styles.css       - Linked CSS for styling  
 ├── resume.html        - (Optional) Resume page if available  
 └── README.md          - Project documentation  
 
@@ -24,14 +24,14 @@ How to Use
 
 2. Open the Website:
 
-   - Double-click on index1.html
+   - Double-click on index.html
    - OR open it via your browser using the path:  
-     file:///your-path-to-folder/index1.html
+     file:///your-path-to-folder/index.html
 
 3. Customize Content:
 
-   - Edit index1.html to update your personal information, projects, and contact details.
-   - Modify styles1.css to adjust styles, colors, and layout according to your preference.
+   - Edit index.html to update your personal information, projects, and contact details.
+   - Modify styles.css to adjust styles, colors, and layout according to your preference.
    - Add a resume.html page or PDF if needed.
 
 Features
@@ -43,7 +43,7 @@ Features
 
 Customization Tips
 
-- To add more projects, edit the <section id="project"> in portfolio.html
+- To add more projects, edit the <section id="project"> in index.html
 - For visual enhancements, consider adding images or a favicon
 - You can enhance interactivity using JavaScript in future versions
 
